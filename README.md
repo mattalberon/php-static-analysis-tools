@@ -20,19 +20,17 @@ See [CONTRIBUTING](https://github.com/exakat/php-static-analysis-tools/blob/mast
 
 Tools to report issues in code that are or lead to bugs.
 
-* [Churn-PHP](https://github.com/bmitch/churn-php.git) - Discover files in need of refactoring.
-* [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code. 
-* [noverify](https://github.com/VKCOM/noverify) - Pretty fast linter (code static analysis utility) for PHP.
-* [Pfff](https://github.com/facebook/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation.
-* [PHP Architecture Tester](https://github.com/carlosas/phpat) - Easy to use architecture testing tool for PHP
-* [PHParch](https://github.com/j6s/phparch.git) - PHPArch is a work in progress architectural testing library for PHP projects. 
-* [PHPCodeFixer](https://github.com/wapmorgan/PhpCodeFixer) -  Finds usage of deprecated functions, variables and ini directives.
-* [php-compat-info](https://github.com/llaville/php-compat-info) - Find out the minimum version and the extensions required for a piece of code to run.
-* [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - Spots copy/pasted code, and help enforcing DRY rule.
-* [Phan](https://github.com/etsy/phan) - The static analyzer by Rasmus, PHP Creator.
-* [PHP Inspection](https://plugins.jetbrains.com/plugin/7622?pr=idea) - Static analysis plugin for PHPStorm.
-* [PHPlint](http://www.icosaedro.it/phplint/) - A validator and documentator for PHP 5 programs.
-* [PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) - A parallel php linting tool for PHP 5.4 or newer
+* [Churn-PHP](https://github.com/bmitch/churn-php.git) - Discover files in need of refactoring. *
+* [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code. *
+* [noverify](https://github.com/VKCOM/noverify) - Pretty fast linter (code static analysis utility) for PHP. **
+* [Pfff](https://github.com/facebook/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation. ***
+* [PHPCodeFixer](https://github.com/wapmorgan/PhpCodeFixer) -  Finds usage of deprecated functions, variables and ini directives. *
+* [php-compat-info](https://github.com/llaville/php-compat-info) - Find out the minimum version and the extensions required for a piece of code to run. *
+* [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - Spots copy/pasted code, and help enforcing DRY rule. **
+* [Phan](https://github.com/etsy/phan) - The static analyzer by Rasmus, PHP Creator. ***
+* [PHP Inspection](https://plugins.jetbrains.com/plugin/7622?pr=idea) - Static analysis plugin for PHPStorm. **
+* [PHPlint](http://www.icosaedro.it/phplint/) - A validator and documentator for PHP 5 programs. **
+* [PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) - A parallel php linting tool for PHP 5.4 or newer *
 * [PHP Magic Number Detector](https://github.com/povils/phpmnd) - PHP Magic Number Detector
 * [PHP-malware-finder](https://github.com/nbs-system/php-malware-finder) - Detect potentially malicious PHP files
 * [PHP Mess Detector](http://phpmd.org/) - Look for several potential problems within source code.
